@@ -1,0 +1,35 @@
+{
+  "name": "frontendapp",
+  "version": "0.0.1",
+  "description": "A Frontend Application for Full Stack Development Training ",
+  "productName": "Frontend Application",
+  "cordovaId": "<default>",
+  "capacitorId": "",
+  "author": "Richard Guevara <kingrgdev@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
+    "leaflet": "^1.6.0",
+    "pdfmake": "^0.1.65",
+    "quasar": "^1.0.0",
+    "vue-chartkick": "^0.6.0",
+    "vue2-leaflet": "^2.5.2",
+    "wings4": "^4.4.4"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
